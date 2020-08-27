@@ -4,8 +4,8 @@
 *.rda   binary
 *.rdb   binary
 *.rds   binary
-*.Rd    text
-*.Rdx   binary
-*.Rmd	  text
-*.R  	  text
-*.Rproj text
+*.Rd    linguist-language=R
+*.Rdx   linguist-language=R
+*.Rmd	  linguist-language=R
+*.R  	  linguist-language=R
+*.Rproj linguist-language=R
