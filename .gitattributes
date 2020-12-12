@@ -1,11 +1,1 @@
-*.html linguist-language=None
-*.Rdata binary
-*.RData binary
-*.rda   binary
-*.rdb   binary
-*.rds   binary
-*.Rd    linguist-language=None
-*.Rdx   linguist-language=None
-*.Rmd	  linguist-language=None
 *.R  	  linguist-language=R
-*.Rproj linguist-language=None
